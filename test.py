@@ -1,2 +1,2 @@
-def abc(x):
+def abcs(x):
     print(x)
